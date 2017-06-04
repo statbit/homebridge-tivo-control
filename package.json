@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-tivo-control",
+  "version": "0.1.0",
+  "description": "Tivo control plugin for homebridge",
+  "keywords" : [
+    "homebridge-plugin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/statbit/homebridge-tivo-control.git"
+  },
+  "author": "john@thepond.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/statbit/homebridge-tivo-control/issues"
+  },
+  "homepage": "https://github.com/statbit/homebridge-tivo-control#readme"
+}
